@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Practice\Hello Universe\bin\Debug\Hello Universe.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Practice\Hello Universe\bin\Debug\Hello Universe.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Practice\Hello Universe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Practice\Hello Universe\obj\Debug\Hello Universe.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Practice\Hello Universe\obj\Debug\Hello Universe.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Hello Universe\obj\Debug\Hello Universe.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\Hello Universe\obj\Debug\Hello Universe.pdb
